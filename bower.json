@@ -1,0 +1,18 @@
+{
+  "name": "four-has-four-letters",
+  "main": "index.js",
+  "homepage": "https://github.com/kandebonfim/four-has-four-letters",
+  "authors": [
+    "Kande Bonfim <kandebonfim@gmail.com>"
+  ],
+  "description": "An algorithm to kill the input/output equity in an function counting the numbers of characters of a number name.",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
